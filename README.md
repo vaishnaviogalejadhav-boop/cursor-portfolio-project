@@ -30,7 +30,9 @@ Initially, Cursor could not clone the repository because Git was not installed o
 
 ### Claude Code authentication
 
-The current version of the Claude Code extension requires either a Claude subscription or an Anthropic Console account with API billing to sign in. I installed the extension successfully but did not purchase a paid subscription while completing the setup.
+### Claude Code authentication
+
+The Claude Code extension installed successfully. During setup, I found that authentication requires either a Claude subscription or an Anthropic Console account with API billing enabled. I documented this limitation and completed the remaining setup steps that did not require authentication.
 
 ## What I Learned
 
