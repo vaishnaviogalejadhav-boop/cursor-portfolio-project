@@ -21,7 +21,7 @@ This repository documents the setup process completed as part of the 100Hires po
 5. Installed Git.
 6. Cloned the GitHub repository into Cursor.
 7. Created this README file.
-
+8. Committed the README and pushed it to GitHub.
 ## Challenges Encountered
 
 ### Git was not installed
